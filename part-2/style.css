@@ -1,0 +1,35 @@
+.tweet {
+  border: 2px solid #f3f3f3;
+  border-radius: 12px;
+  margin: 20px 50% 50px 30%;
+  padding: 15px;
+  box-shadow: 5px 5px 5px rgb(150, 149, 149);
+}
+
+.username{
+  color: #999;
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.date {
+  color: #999;
+  display: inline-block;
+  margin: 10px 0px;
+}
+
+.check {
+  display: inline-block; 
+  position:relative;
+  top: -3px;
+  font-size: 5px; 
+  color: #ffffff; 
+  background: #3888f0; 
+  border-radius: 25px; 
+  padding: 4px 5px;
+}
+
+.bird{
+  color:#3888f0;
+  background: #3888f0;
+}
